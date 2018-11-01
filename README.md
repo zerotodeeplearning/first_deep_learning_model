@@ -28,7 +28,7 @@ https://www.anaconda.com/downloads
 
 #### Change to course folder
 ```
-cd zero_to_deep_learning_udemy
+cd first_deep_learning_model
 ```
 
 #### Create the conda environment
