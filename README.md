@@ -9,7 +9,7 @@ Follow the get started guide below to set up your computer. The video will walk 
 
 This repo is a sample of the coursework in the [Zero to Deep Learning Bootcamp](https://bootcamp.zerotodeeplearning.com). The Bootcamp is a hands-on and immersive course to learn Machine Learning & Deep Learning fast with Python, Pandas, Matplotlib, Scikit-Learn, Keras and Tensorflow.
 
-## Next Bootcamps: 25-29 March, SF Bay area . [Register here](https://bootcamp.zerotodeeplearning.com)
+## Next Bootcamps: 3-7 June, SF Bay area . [Register here](https://bootcamp.zerotodeeplearning.com)
 
 
 ## Get started guide
