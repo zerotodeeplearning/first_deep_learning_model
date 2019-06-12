@@ -1,3 +1,8 @@
+## [Check our Zero To Deep Learning 5 day bootcamp. New dates are out!](https://bootcamp.zerotodeeplearning.com)
+
+--
+
+
 # First Deep Learning Model
 
 
@@ -8,8 +13,6 @@ Build your first deep learning model in 10 minutes.
 Follow the get started guide below to set up your computer. The video will walk you through how to build your first model.
 
 This repo is a sample of the coursework in the [Zero to Deep Learning Bootcamp](https://bootcamp.zerotodeeplearning.com). The Bootcamp is a hands-on and immersive course to learn Machine Learning & Deep Learning fast with Python, Pandas, Matplotlib, Scikit-Learn, Keras and Tensorflow.
-
-## Next Bootcamps: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
 
 
 ## Get started guide
