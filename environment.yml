@@ -2,13 +2,12 @@ name: ztdl
 channels:
 - defaults
 dependencies:
-- python=3.6
-- pip==10.0.*
-- numpy==1.14.*
+- python=3.7.*
+- pip==19.0.*
+- numpy==1.16.*
 - jupyter==1.*
-- matplotlib==2.2.*
-- scikit-learn==0.19.*
-- cython==0.28.*
+- matplotlib==3.0.*
+- scikit-learn==0.20.*
+- cython==0.29.*
 - pip:
-  - tensorflow==1.10.*
-  - keras==2.2.*
+  - tensorflow==2.0.0-alpha0

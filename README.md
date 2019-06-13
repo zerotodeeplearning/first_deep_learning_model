@@ -8,7 +8,7 @@
 
 Build your first deep learning model in 10 minutes.
 
-[Guided video walkthrough](https://www.youtube.com/watch?v=h9ZJ1ArNG3s)
+[Guided video walkthrough](https://www.youtube.com/watch?v=m8_B_eL7gNY)
 
 Follow the get started guide below to set up your computer. The video will walk you through how to build your first model.
 
